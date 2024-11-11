@@ -7,10 +7,7 @@ function App() {
         <h1 className="text-blue-300 text-6xl my-6 italic hover:text-blue-400">
           Tic~Tac~Toe
         </h1>
-        <br />
         <Board />
-        <br />
-        <br />
       </div>
     </div>
   );
